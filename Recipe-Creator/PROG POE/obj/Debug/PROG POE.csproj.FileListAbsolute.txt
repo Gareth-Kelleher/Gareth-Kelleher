@@ -1,0 +1,15 @@
+C:\Users\User\Documents\BCAD Year 2\Semester1\Semester1\PROG\source\repos\PROG POE\PROG POE\bin\Debug\PROG POE.exe.config
+C:\Users\User\Documents\BCAD Year 2\Semester1\Semester1\PROG\source\repos\PROG POE\PROG POE\bin\Debug\PROG POE.exe
+C:\Users\User\Documents\BCAD Year 2\Semester1\Semester1\PROG\source\repos\PROG POE\PROG POE\bin\Debug\PROG POE.pdb
+C:\Users\User\Documents\BCAD Year 2\Semester1\Semester1\PROG\source\repos\PROG POE\PROG POE\obj\Debug\PROG POE.csproj.AssemblyReference.cache
+C:\Users\User\Documents\BCAD Year 2\Semester1\Semester1\PROG\source\repos\PROG POE\PROG POE\obj\Debug\PROG POE.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\BCAD Year 2\Semester1\Semester1\PROG\source\repos\PROG POE\PROG POE\obj\Debug\PROG POE.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\BCAD Year 2\Semester1\Semester1\PROG\source\repos\PROG POE\PROG POE\obj\Debug\PROG POE.exe
+C:\Users\User\Documents\BCAD Year 2\Semester1\Semester1\PROG\source\repos\PROG POE\PROG POE\obj\Debug\PROG POE.pdb
+D:\Projects Uni\PROG POE\PROG POE\bin\Debug\PROG POE.exe.config
+D:\Projects Uni\PROG POE\PROG POE\bin\Debug\PROG POE.exe
+D:\Projects Uni\PROG POE\PROG POE\bin\Debug\PROG POE.pdb
+D:\Projects Uni\PROG POE\PROG POE\obj\Debug\PROG POE.csproj.AssemblyReference.cache
+D:\Projects Uni\PROG POE\PROG POE\obj\Debug\PROG POE.csproj.CoreCompileInputs.cache
+D:\Projects Uni\PROG POE\PROG POE\obj\Debug\PROG POE.exe
+D:\Projects Uni\PROG POE\PROG POE\obj\Debug\PROG POE.pdb
